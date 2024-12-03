@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>7a34d8620235048917b28bcfd3b5572b_jpg.rf.61171cca42aba84311965c3c3f66eae7.jpg</filename>
+	<path>C:\Users\shiva\Downloads\tfod2_materials\notebooks\images\7a34d8620235048917b28bcfd3b5572b_jpg.rf.61171cca42aba84311965c3c3f66eae7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>203</ymin>
+			<xmax>207</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
